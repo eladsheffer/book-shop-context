@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "title": "Learning Laravel",
+        "price": 50,
+        "imgUrl": "http://www.eco.ubookeducations.com/storage/bookImages/111111111111.png",
+        "rating": 5,
+        "desc": "Lorem Ipsum"
+    },
+    {
+        "id": 2,
+        "title": "Begining With Laravel",
+        "price": 100,
+        "imgUrl": "http://www.eco.ubookeducations.com/storage/bookImages/111111111111.png",
+        "rating": 4,
+        "desc": "Lorem Ipsum"
+    },
+    {
+        "id": 3,
+        "title": "Java For Developers",
+        "price": 80,
+        "imgUrl": "http://www.eco.ubookeducations.com/storage/bookImages/111111111111.png",
+        "rating": 4,
+        "desc": "Lorem Ipsum"
+    },
+    {
+        "id": 4,
+        "title": "Book Name",
+        "price": 70,
+        "imgUrl": "http://www.eco.ubookeducations.com/storage/bookImages/111111111111.png",
+        "rating": 3,
+        "desc": "Lorem Ipsum"
+    }
+]
